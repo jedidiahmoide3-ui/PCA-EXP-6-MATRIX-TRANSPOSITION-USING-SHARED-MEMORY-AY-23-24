@@ -416,9 +416,12 @@ CHECK(cudaMemset(d_C, 0, nBytes));
 
 ## OUTPUT:
 
+<img width="1770" height="228" alt="Screenshot 2026-09-01 084839" src="https://github.com/user-attachments/assets/71ae1dc5-4f4a-4d01-b2c7-7d6082eb181e" />
 <img width="856" height="568" alt="Screenshot 2026-09-01 113601" src="https://github.com/user-attachments/assets/7c411155-504a-4652-bf98-bbedb7a9eb3a" />
+<img width="1760" height="227" alt="Screenshot 2026-09-01 085027" src="https://github.com/user-attachments/assets/b252f191-33ce-45da-b852-c4e15a215f6b" />
 
 <img width="1617" height="561" alt="Screenshot 2026-09-01 113626" src="https://github.com/user-attachments/assets/4edbce5e-922a-483e-8d83-4dffe57771ac" />
+
 
 
 ## RESULT:
